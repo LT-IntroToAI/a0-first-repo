@@ -4,7 +4,7 @@ This assignment gets you set up with the tools we'll use all year for submitting
 
 ### What You Need to Submit:
 1. **Complete the writeup.md section** - Complete that portion and make sure that you are committing and pushing your changes.
-2. **Create your GitHub profile README** - ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). Use this information to create your profile README.  On your README you should include some peronal information and your interests.  Include a picture if you would like (not necessarily of yourself)
+2. **Create your GitHub profile README** - ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). Use this information to create your profile README.  On your README you should include some peronal information or "About Me" and your interests.  Include a picture if you would like (not necessarily of yourself).
 3. **Submit the link** - In your writeup.md file, include the link to your profile repository
 4. **Push your changes to github** - Push all those changes to github and load the page on github.com to make sure that it is all there. I'll see all the changes on my end.
 
