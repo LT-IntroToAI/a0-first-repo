@@ -1,10 +1,26 @@
+# Assignment 0: GitHub Setup for Introduction to AI
+
+This assignment gets you set up with the tools we'll use all year for submitting projects and collaborating. By the end, you'll have your own GitHub account and know the basic workflow for our class.
+
+### What You Need to Submit:
+1. **Complete the writeup.md section** - Complete that portion and make sure that you are committing and pushing your changes.
+2. **Create your GitHub profile README** - ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme). Use this information to create your profile README.  On your README you should include some peronal information and your interests.  Include a picture if you would like (not necessarily of yourself)
+3. **Submit the link** - In your writeup.md file, include the link to your profile repository
+4. **Push your changes to github** - Push all those changes to github and load the page on github.com to make sure that it is all there. I'll see all the changes on my end.
+
+## Need Help?
+- Can't clone the repository? Check that you accepted the GitHub Classroom invitation
+- Git commands not working? Make sure Git is installed and you're in the right folder
+- Questions about markdown? Check the resources at the bottom or ask in class
+
+
 # :wave: The Basics of GitHub 
 
 Please read through all of this in order to get an idea of what you will be doing with github this year.  You do not need to understand everything, but you will get a good workflow in order to complete our assignments.  
 
 ### To Complete:
 * Make some sort of change to this file, commit that change, and push it to your cloned repository.
-* Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
+* Create your profile README in your personal account. Provide a link to that personal repository in the writeup.  Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 
 ## 🤓 Course overview and learning outcomes 
 
